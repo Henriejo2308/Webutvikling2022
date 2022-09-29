@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-29T21:15:37.035Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="8Q7y6T9-9qiyNz4c4Aid" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-29T21:32:03.646Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="mCFYPaAmbwjRnyZmnv8-" version="20.3.7" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="2683" dy="1754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -25,11 +25,11 @@
         <mxCell id="677b7b8949515195-10" value="&lt;font style=&quot;font-size: 34px;&quot; color=&quot;#0a0a0a&quot;&gt;TITTEL&lt;br&gt;(&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#0a0a0a&quot;&gt;og &lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#0a0a0a&quot;&gt;bakgrunnsbilde&lt;/font&gt;&lt;font style=&quot;font-size: 34px;&quot; color=&quot;#0a0a0a&quot;&gt;)&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
           <mxGeometry x="25" y="125" width="1060" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="en6F7Ufg05P-uTRN20QV-2" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Kontaktinformasjon/maps&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
+        <mxCell id="en6F7Ufg05P-uTRN20QV-2" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Kontaktinformasjon&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="790" width="1020" height="30" as="geometry" />
         </mxCell>
         <mxCell id="en6F7Ufg05P-uTRN20QV-4" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
-          <mxGeometry x="32.5" y="260" width="1040" height="500" as="geometry" />
+          <mxGeometry x="32.5" y="260" width="1057.5" height="500" as="geometry" />
         </mxCell>
         <mxCell id="677b7b8949515195-26" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
           <mxGeometry x="435" y="460" width="230" height="280" as="geometry" />
